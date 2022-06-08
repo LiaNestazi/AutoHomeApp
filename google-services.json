@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096016013334",
+    "firebase_url": "https://autohomeapp-6e7f1-default-rtdb.firebaseio.com",
+    "project_id": "autohomeapp-6e7f1",
+    "storage_bucket": "autohomeapp-6e7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096016013334:android:86503d6acd9a1ca69ced37",
+        "android_client_info": {
+          "package_name": "com.example.autohomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096016013334-crr56ap06l2i4et09d6sccugrkgp882o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJonOpwPuY4cjzsIufBKmhf8v8tN55AxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096016013334-crr56ap06l2i4et09d6sccugrkgp882o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

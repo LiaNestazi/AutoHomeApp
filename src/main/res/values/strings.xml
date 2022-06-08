@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoHome</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">AutoHome</string>
+    <string name="title_dashboard">Каталог</string>
+    <string name="title_notifications">Аккаунт</string>
+</resources>
